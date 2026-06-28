@@ -1,0 +1,3 @@
+Assessment of Higher-order Thinking Skills in Conversation Situation
+
+Embora inovador ao propor o uso da análise de conversação situacional na identificação de Higher-order Thinking Skills, o estudo possui caráter preliminar e carece de rigor estatístico. O experimento omite detalhes cruciais, tais como: a validação baseada apenas em exemplos qualitativos isolados (como a Situação A01), sem a apresentação de métricas de performance ou de um grupo de controle; a ausência de descrição explícita sobre o consentimento dos alunos e a proteção de dados; a falta de especificação do tamanho da amostra; e a própria declaração dos autores de que o sistema não é generalizável.

@@ -1,0 +1,3 @@
+Integration of Collaborative Filtering Into Naive Bayes Method to Enhance Student Performance Prediction
+
+Na seção Research Method e nas Tabelas 2, 3, 4 e 5, os autores descrevem a elaboração de uma matriz de notas obtidas em cada componente. Contudo, as disciplinas são especificamente Matemática, Física, História e Química. Termos incompatíveis com disciplinas de cursos tradicionais do Ensino Superior. Portanto, essa ambiguidade coloca em dúvida a natureza do processo de treinamento e destoa do contexto específico do Ensino Superior.

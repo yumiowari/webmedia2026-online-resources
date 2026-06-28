@@ -1,0 +1,7 @@
+Automated Student Engagement Detection Using Hybrid Deep Learning and Machine Learning Techniques
+
+Os autores propuseram o sistema EduWatch, baseado na Teoria do Engajamento, para o monitoramento automatizado do engajamento de estudantes por meio de Inteligência Artificial. O estudo avaliou duas abordagens experimentais: a classificação direta por modelos de Deep Learning e uma técnica híbrida que utiliza esses modelos para a extração de características, seguidos por classificadores de Machine Learning.
+
+Os resultados indicaram que a abordagem híbrida, especificamente utilizando Regressão Logística, atingiu a melhor performance, superando o modelo isolado com melhor desempenho (VGG16). A ferramenta proposta integra esses modelos em um dashboard para a análise de métricas como tempo de atenção e taxa de participação em tempo real.
+Apesar do desempenho técnico reportado, a inclusão do estudo na síntese narrativa exige cautela devido a severas lacunas éticas. Embora os autores descrevam a curadoria de um dataset de imagens e a implementação de monitoramento individualizado, o artigo omite informações sobre o consentimento dos participantes ou protocolos de proteção de dados sensíveis.
+Além disso, a proposta de vigilância em tempo real, aliada à intenção futura de incorporar modalidades como voz e sequências de vídeo, levanta preocupações sobre os limites da supervisão automatizada e o risco de violação da privacidade, questões que não foram devidamente discutidas pelos autores.

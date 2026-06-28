@@ -1,0 +1,3 @@
+Multi‑type factors representation learning for deep learning‑based knowledge tracing
+
+Embora o estudo implemente um dataset do ensino superior (dentre os cinco utilizados), a questão de pesquisa do artigo é definida como a necessidade de plataformas de aprendizagem online entenderem o estado de conhecimento dos alunos para recomendar conteúdos adequados. No sentido que o artigo é restrito ao problema técnico de rastreamento de conhecimento (Knowledge Tracing) para melhorar a precisão de modelos preditivos, o que difere de questões significativas para a presente revisão, tais como retenção e evasão em universidades.

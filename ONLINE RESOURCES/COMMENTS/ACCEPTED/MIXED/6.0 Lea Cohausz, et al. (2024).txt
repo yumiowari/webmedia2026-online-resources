@@ -1,0 +1,3 @@
+Investigating Demographic Features and their Connection to Performance, Predictions, and Fairness in EDM Models
+
+O estudo apresenta a continuação do trabalho de Lea Cohausz, et al. em Investigating the Importance of Demographic Features for EDM-Predictions (2023). A continuação utiliza especificamente a métrica de paridade demográfica para avaliar o impacto das características o viés algoritmico. A conclusão central do artigo sobre a análise de paridade demográfica (Demographic Parity - DP) é que a simples remoção de características demográficas dos modelos (estratégia conhecida como "justiça por desconhecimento") não garante a eliminação de vieses e, em geral, não altera substancialmente os níveis de equidade medidos por essa métrica.

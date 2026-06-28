@@ -1,0 +1,3 @@
+Predicting Academic Success of College Students Using Machine Learning Techniques
+
+Dentre os objetivos do artigo, está a avaliação de modelos de aprendizado de máquina na predição do desempenho acadêmico, no sentido que os autores compararam a performance de nove modelos para um mesmo dataset. Os resultados da experimentação revelam que o modelo XGBoost apresentou o melhor desempenho. Contudo, destacam que a árvore de decisão (C4.5), embora menos eficiente que o XGBoost, foi útil por oferecer uma interpretação mais simples através de regras legíveis para gestores acadêmicos.

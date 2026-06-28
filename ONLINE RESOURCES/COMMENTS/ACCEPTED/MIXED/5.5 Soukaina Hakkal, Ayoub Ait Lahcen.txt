@@ -1,0 +1,6 @@
+Leveraging graph neural network for learner performance prediction
+
+O estudo apresenta uma contribuição relevante ao abordar o desafio de generalização e escalabilidade nos sistemas de predição da performance acadêmica, integrando variantes de Redes Neurais em Grafos (GNN) a modelos de Ensemble Learning como XGBoost e LightGBM.
+O estudo valida a arquitetura em diversos contextos educacionais, incluindo ambientes de Ensino Superior, demonstrando que a extração de características estruturais via GNN, quando combinada com a robustez dos modelos de árvore, permite superar as limitações de redes neurais puras em datasets desbalanceados.
+
+O trabalho detalha explicitamente o rigoroso processo de pré-processamento, amostragem de subgrafos e a divisão tripartida dos dados (70/15/15) para garantir a consistência e reprodutibilidade dos resultados. Contudo, identifica-se uma lacuna crítica quanto à proteção de dados e ao consentimento informado, uma vez que a seção ética se limita a informar a disponibilidade pública dos datasets, sem discutir protocolos de privacidade ou o anonimato dos estudantes envolvidos. Essa dualidade reforça a importância de modelos híbridos para a precisão preditiva, mas ressalta a necessidade de uma documentação ética mais robusta.

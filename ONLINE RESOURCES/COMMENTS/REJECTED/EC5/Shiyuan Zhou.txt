@@ -1,0 +1,3 @@
+Academic Performance Prediction Models Based on Multi-Head Attention LSTM Mechanisms
+
+Na seção 5.1 Experimental Design, o artigo afirma explicitamente que o experimento utiliza dados de performance estudantil de 1000 alunos do ensino secundário.

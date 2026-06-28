@@ -1,0 +1,14 @@
+﻿Scopus-10-Analyze-Year
+
+"Your query : (ALL(( ( ""Higher education"" OR ""Universit*"" ) AND ( ""Student*"" OR ""Undergraduat*"" ) ) AND ( ""Academic dashboard"" OR ""Educational data mining"" OR ""Learning analytic*"" OR ""Student profiling"" OR ""Automated monitoring"" OR ""Automated tracking"" OR ""Performance mapping"" ) AND ( ""Traditional method*"" OR ""Conventional monitoring"" OR ""Manual assessment"" OR ""Manual tracking"" ) AND ( ""Academic achievement"" OR ""Dropout"" OR ""Retention"" OR ""Student success"" OR ""Decision support system*"" OR ""Dropout forecasting"" OR ""Early warning system*"" OR ""Risk assessment"" OR ""Privacy concern*"" OR ""Barrier*"" OR ""Challenge*"" )) AND PUBYEAR > 2020 AND PUBYEAR < 2027 AND ( LIMIT-TO ( SUBJAREA,""COMP"" ) )  AND ( LIMIT-TO ( DOCTYPE,""ar"" ) OR LIMIT-TO ( DOCTYPE,""cp"" ) )  AND ( LIMIT-TO ( LANGUAGE,""English"" ) ) )"
+
+
+Number of results : 10
+
+"YEAR",
+"2026","27"
+"2025","115"
+"2024","62"
+"2023","19"
+"2022","22"
+"2021","9"

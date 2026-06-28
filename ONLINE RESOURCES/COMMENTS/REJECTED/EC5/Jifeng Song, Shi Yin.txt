@@ -1,0 +1,3 @@
+A novel transfer learning approach to predict student performance based on CNN-GWO
+
+Na seção "Case Study", a base de dados descrita compreende alunos de turmas de Matemática e Português. Portanto, é certo inferir que o contexto do estudo não é específico ao Ensino Superior.

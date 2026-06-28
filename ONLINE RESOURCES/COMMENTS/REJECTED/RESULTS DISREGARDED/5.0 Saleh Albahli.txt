@@ -1,0 +1,7 @@
+Efficient hyperparameter tuning for predicting student performance with Bayesian optimization
+
+O autor avaliou a aplicação de Synthetic Minority Oversampling Technique (SMOTE) para lidar com datasets desbalanceados e Bayesian Optimization Hyperparameter Tuning para otimização dos parâmetros dos modelos. A avaliação demonstra que as técnicas combinadas ao algoritmo de Árvore de Decisão obtiveram resultados promissores na predição do desempenho acadêmico: 100% de acurácia e 89% de F1-score. Contudo, esse resultado é uma contradição estatística direta: se um modelo acerta 100% das predições, a precisão e o recall também deveriam ser perfeitos, resultando em um F1-score de 100% (de acordo com a definição das métricas na Seção 3.6). Além disso, a contradição entre o conteúdo do texto e o da tabela de resultados (acurácia 1.0 no corpo do texto e 0.1 na Tabela 10) sugerem uma falha do processo de revisão por pares que, somado à contradição nos resultados, descredibiliza o artigo.
+
+Precisão: TP/TP+0 = 1
+Recall: TP/TP+0 = 1
+F1-score: 2(Precision*Recall/Precision+Recall)*100 = 2(1*1/1+1)*100 = (2/2)*100 = 100

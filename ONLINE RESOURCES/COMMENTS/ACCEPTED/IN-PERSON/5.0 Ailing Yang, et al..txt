@@ -1,0 +1,3 @@
+GNN-driven modeling and prediction of multi-dimensional correlation of international medical education quality based on competence
+
+O estudo propõe o modelo RT-GAT (Relational Temporal-Graph Attention Network) para superar as limitações de métodos tradicionais na avaliação da educação médica internacional, que frequentemente falham em capturar a natureza multidimensional e a evolução temporal das competências estudantis. O sistema foi validado em uma amostra de 900 estudantes de medicina de três universidades distintas, com 20 países de origem distintos, de forma que o modelo proposto apresentou um RMSE médio de 4.8 na predição de conhecimento e habilidades, bem como acurácia 87.3%, recall 84.6% e F1-score 85.9% na classificação de alunos em situação de risco.

@@ -1,0 +1,3 @@
+Counterfactual Monotonic Knowledge Tracing for Assessing Students' Dynamic Mastery of Knowledge Concepts
+
+O estudo implementa cinco datasets, nenhum específico ao contexto do Ensino Superior.

@@ -1,0 +1,6 @@
+Application of GA-BP Neural Network in Online Education Quality Evaluation in Colleges and Universities 
+
+O estudo apresenta o algoritmo DTGA-BP, uma abordagem híbrida que integra árvores de decisão para determinar a estrutura ideal da camada oculta e algoritmos genéticos para mitigar mínimos locais, bem como Correlação de Pearson para simplificar as variáveis de entrada, visando otimizar uma rede neural de retro propagação (BP) na predição do rendimento acadêmico.
+O modelo proposto foi comparado com a abordagem por rede neural BP tradicional e obteve resultados promissores: Erro quadrático médio reduzido de 7.9 para 3.1, bem como redução do tempo médio de treinamento de 0.2388s para 0.1469s. A acurácia superior e a eficiência no treinamento confirmam a efetividade do algoritmo proposto.
+
+Entretanto, a validação foi realizada com uma amostra reduzida de apenas 80 estudantes de Engenharia da Comunicação em uma única universidade na China, o que impõe cautela quanto à generalização dos resultados. Além disso, houve ausência crítica de discussões sobre privacidade dos dados, consentimento ou conformidade com regulamentações éticas.

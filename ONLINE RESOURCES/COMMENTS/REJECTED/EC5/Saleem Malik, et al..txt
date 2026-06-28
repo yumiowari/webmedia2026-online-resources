@@ -1,0 +1,3 @@
+Advancing educational data mining for enhanced student performance prediction: a fusion of feature selection algorithms and classification techniques with dynamic feature ensemble evolution
+
+Na seção "Dataset used", os autores informam que o conjunto de registros acadêmicos utilizados para treinamento é obtido de duas escolas portuguesas. Especificam que um dos conjuntos de dados é focado em habilidades matemáticas e o outro no treinamento da língua portuguesa. Portanto, o artigo não contempla o Ensino Superior.

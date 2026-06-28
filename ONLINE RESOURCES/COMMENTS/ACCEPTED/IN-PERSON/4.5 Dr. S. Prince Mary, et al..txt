@@ -1,0 +1,5 @@
+Optimizing Student Engagement Prediction with Machine Learning and Big Data Analytics
+
+O estudo apresenta o modelo híbrido Shark Nose Optimizer tuned-Dynamic Support Vector Regression (SNO-DSVR), que utiliza análise de Big Data para prever o engajamento estudantil com base em atributos acadêmicos e comportamentais. O dataset foi extraído do Kaggle e contém dados demográficos, socioeconômicos, de atividades extracurriculares, comportamento acadêmico e métricas de desempenho específicas, bem como as notas finais nos componentes curriculares, que é a variável alvo da predição.
+
+Aplica normalização Min-Max e Principal Component Analysis (PCA) para otimizar a eficiência preditiva, alcançando resultados superiores aos modelos baseline (LightGBM e CatBoost) em todas as métricas avaliadas. Embora o estudo identifique as características coletadas e o pré-processamento do dataset, os autores não informam o tamanho da amostra processada e omitem discussões sobre privacidade de dados e consentimento informado. Finalizando, a dependência de um único dataset da plataforma Kaggle é apontada como uma limitação para a generalização dos resultados.

@@ -1,0 +1,4 @@
+Predicting Student Performance on a Novel Moodle Dataset Using GRU Time Series Model
+
+A principal contribuição do estudo é a disponibilização de um novo dataset público da Universidade da Letônia, composto por mais de 1,2 milhão de logs de atividades e 20.317 registros de notas referentes a um semestre letivo da plataforma Moodle.
+O estudo utilizou uma arquitetura de série temporal baseada em Gated Recurrent Units (GRU) para classificação dos alunos em 11 categorias de notas (0–10), de forma que o modelo alcançou uma acurácia de 83% ao integrar sinais de avaliações intermediárias. A pesquisa ressalta desafios metodológicos significativos, como o forte desequilíbrio de classes (76,1% de notas entre 8 e 10) e a baixa adesão ao uso contínuo do Moodle, visto que apenas 3,5% dos cursos apresentaram a densidade de dados necessária para previsões confiáveis, sugerindo o uso de aprendizado federado em estudos futuros para ampliar a base de dados e preservar a privacidade.

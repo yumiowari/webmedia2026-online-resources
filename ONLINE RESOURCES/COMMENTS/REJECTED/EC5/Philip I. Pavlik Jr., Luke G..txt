@@ -1,0 +1,3 @@
+Evolutionary Features for Mitigating Cold Starts in Logistic Knowledge Tracing
+
+Seção 3.1: Dois dos conjuntos de dados — Blocked vs Interleaved Instruction e Mathia — referem-se a estudantes do 6º ano e a uma plataforma de ensino de matemática voltada pra o Ensino Fundamental. O terceiro dataset (Cloze Practice Data) envolveu adultos, porém estes foram recrutados via Amazon Mechanical Turk para uma tarefa específica de preenchimento de lacunas em conceitos estatísticos, o que configura um ambiente de coleta de dados em massa desvinculado de uma instituição do Ensino Superior.

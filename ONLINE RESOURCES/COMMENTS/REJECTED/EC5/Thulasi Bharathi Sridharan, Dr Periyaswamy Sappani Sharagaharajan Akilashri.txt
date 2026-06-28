@@ -1,0 +1,3 @@
+Multimodal learning analytics for students behavior prediction using multi-scale dilated deep temporal convolution network with improved chameleon Swarm algorithm
+
+O dataset utilizado no estudo foi construído a partir de dados coletados da plataforma YouTube, consistindo em vídeos de diversas aulas online. Contudo, as figuras apresentadas no artigo apresentam imagens de salas de aula no ensino fundamental e, portanto, destoam do ensino superior.
